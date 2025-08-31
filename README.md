@@ -1,6 +1,6 @@
-# Hi 👋, I'm Karthi M  
+<h1 align="center"># Hi 👋, I'm Karthi M</h1>
 
-🚀 **Full Stack Engineer | Backend Specialist | AI Explorer**  
+<h3 align="center">🚀 **Full Stack Engineer | Backend Specialist | AI Explorer** </h3>
 I design and build **scalable, efficient systems** blending strong backend engineering with **AI-driven workflows** and **cloud-native solutions**.  
 
 ---
@@ -59,11 +59,11 @@ I design and build **scalable, efficient systems** blending strong backend engin
 
 ---
 
-## 🌱 Currently Exploring  
+### 🌱 Currently Exploring  
 
-- Advanced **AI workflows & agentic systems**  
-- Building **event-driven, highly scalable backends**  
-- **Pair programming with AI** for productivity  
+- 🧠 Advanced **AI workflows & agentic systems**  
+- 📊 Building **event-driven, highly scalable backends**  
+- 🤝 **Pair programming with AI** for productivity  
 
 ---
 
