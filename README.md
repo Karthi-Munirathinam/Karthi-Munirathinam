@@ -6,9 +6,10 @@
   I design and build <b>📈 scalable, ⚡ efficient systems</b> blending strong backend engineering with 
   <b>🤝 AI-driven workflows</b> and <b>☁️ cloud-native solutions</b>.
 </p> 
+
 ---
 <!-- Currently Exploring -->
-<h2 align="center">🌱 Currently Exploring</h2>
+<h2>🌱 Currently Exploring</h2>
 <p align="center">
   🤖 AI Agents | 📊 Data Structures & Algorithms | 🤝 Pair Programming with AI
 </p>
@@ -16,13 +17,13 @@
 ---
 
 <!-- Tech Stack -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nest,react,nextjs,python,docker,mysql,mongodb,redis,jenkins,git" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=aws,ec2,sqs,sns,s3,ses" />
 </p>
 
