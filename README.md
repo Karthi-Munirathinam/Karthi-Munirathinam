@@ -10,7 +10,7 @@
 ---
 <!-- Currently Exploring -->
 <h2>🌱 Currently Exploring</h2>
-<p align="center">
+<p>
   🤖 AI Agents | 📊 Data Structures & Algorithms | 🤝 Pair Programming with AI
 </p>
 
@@ -27,11 +27,14 @@
   <img src="https://skillicons.dev/icons?i=aws,ec2,sqs,sns,s3,ses" />
 </p>
 
-## 🤝 Connect With Me  
+<!-- Portfolio -->
+<h2>📂 Portfolio & Contact</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthi-munirathinam-0812166a)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio.gravitycodes.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthiraja268@gmail.com)  
+<p>
+  🌐 <a href="https://portfolio.gravitycodes.com" target="_blank">Portfolio</a> • 
+  💼 <a href="https://linkedin.com/in/karthi-munirathinam-0812166a" target="_blank">LinkedIn</a> •
+  📧 <a href="mailto:karthiraja268@email.com">Email</a>
+</p>
 
 ---
 
