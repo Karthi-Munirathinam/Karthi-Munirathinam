@@ -52,13 +52,6 @@ I design and build **scalable, efficient systems** blending strong backend engin
 
 ---
 
-## 📊 GitHub Stats  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthi-Munirathinam&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karthi-Munirathinam&theme=tokyonight)  
-
----
-
 ### 🌱 Currently Exploring  
 
 - 🧠 Advanced **AI workflows & agentic systems**  
@@ -75,4 +68,4 @@ I design and build **scalable, efficient systems** blending strong backend engin
 
 ---
 
-✨ _"Building scalable backends today, exploring AI for tomorrow."_  
+> <h2 align="center">✨ _"Building scalable backends today, exploring AI for tomorrow."_ </h2>
