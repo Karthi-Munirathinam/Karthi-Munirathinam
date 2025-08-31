@@ -54,7 +54,7 @@ I design and build **scalable, efficient systems** blending strong backend engin
 
 ## 📊 GitHub Stats  
 
-![Karthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karthi-Munirathinam&show_icons=true&theme=tokyonight)  
+<> ![Karthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karthi-Munirathinam&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthi-Munirathinam&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karthi-Munirathinam&theme=tokyonight)  
 
