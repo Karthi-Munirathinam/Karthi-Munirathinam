@@ -1,8 +1,8 @@
 <h1 align="center"># Hi 👋, I'm Karthi M</h1>
 
-<h2 align="center">🚀 Full Stack Engineer | ⚡ Backend Specialist | 🤖 AI Explorer</h2>
+<h2>🚀 Full Stack Engineer | ⚡ Backend Specialist | 🤖 AI Explorer</h2>
 
-<p align="center">
+<p>
   I design and build <b>📈 scalable, ⚡ efficient systems</b> blending strong backend engineering with 
   <b>🤝 AI-driven workflows</b> and <b>☁️ cloud-native solutions</b>.
 </p> 
