@@ -24,7 +24,7 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,ec2,sqs,sns,s3,ses" />
+  <img src="https://skillicons.dev/icons?i=aws,ec2,sqs,sns,s3,ses,gcp" />
 </p>
 
 <!-- Portfolio -->
