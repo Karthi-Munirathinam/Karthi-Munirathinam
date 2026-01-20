@@ -20,7 +20,7 @@
 <h2>🛠️ Tech Stack</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nest,react,nextjs,python,docker,mysql,mongodb,redis,jenkins,git,jest,go" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,express,nest,react,nextjs,python,docker,mysql,mongodb,redis,jenkins,git,jest" />
 </p>
 
 <p>
