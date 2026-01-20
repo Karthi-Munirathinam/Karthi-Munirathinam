@@ -20,11 +20,11 @@
 <h2>🛠️ Tech Stack</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,express,nest,react,nextjs,python,docker,mysql,mongodb,redis,jenkins,git,jest" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,bash,express,nest,react,nextjs,python,docker,mysql,mongodb,redis,jenkins,git,jest" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,ec2,sqs,sns,s3,ses,gcp" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp" />
 </p>
 
 <!-- Portfolio -->
