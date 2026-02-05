@@ -11,7 +11,8 @@
 <!-- Currently Exploring -->
 <h2>🌱 Currently Exploring</h2>
 <p>
-  🤖 AI Agents | 📊 Data Structures & Algorithms | 🤝 Pair Programming with AI
+  🤖 AI Agents | <img width="18" height="18" alt="golang" src="https://github.com/user-attachments/assets/63968cf1-cece-4918-b101-60be5429abb8" />
+Go Fiber | 📊 Data Structures & Algorithms | 🤝 Pair Programming with AI
 </p>
 
 ---
