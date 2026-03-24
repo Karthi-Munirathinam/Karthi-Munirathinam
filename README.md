@@ -9,11 +9,14 @@
 
 ---
 <!-- Currently Exploring -->
-<h2>🌱 Currently Exploring</h2>
-<p>
-  🤖 AI Agents | <img width="18" height="18" alt="golang" src="https://github.com/user-attachments/assets/63968cf1-cece-4918-b101-60be5429abb8" />
-Go Fiber | 📊 Data Structures & Algorithms | 🤝 Pair Programming with AI
-</p>
+## 🌱 Currently Exploring
+ 
+| Area | What I'm building / learning |
+|------|-------------------------------|
+| 🤖 AI Agents | Multi-agent workflows, tool-use patterns, memory architectures |
+| 🐹 Go Fiber | High-performance APIs and microservices in Go |
+| 📊 DSA | Sharpening problem-solving fundamentals |
+| 🤝 AI Collaboration | Building faster with AI as a true pair programmer |
 
 ---
 
