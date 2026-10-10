@@ -1,45 +1,59 @@
-<h1 align="center"># Hi 👋, I'm Karthi M</h1>
+Karthi M.
 
-<h2 align="center">🚀 Full Stack Engineer | ⚡ Backend Specialist | 🤖 AI Explorer</h2>
+<div align="center">
 
-<p>
-  I design and build <b>📈 scalable, ⚡ efficient systems</b> blending strong backend engineering with 
-  <b>🤝 AI-driven workflows</b> and <b>☁️ cloud-native solutions</b>.
-</p> 
+Lead Backend Engineer · Systems Thinker · Builder
 
----
-<!-- Currently Exploring -->
-## 🌱 Currently Exploring
- 
-| Area | What I'm building / learning |
-|------|-------------------------------|
-| 🤖 AI Agents | Multi-agent workflows, tool-use patterns, memory architectures |
-| 🐹 Go Fiber | High-performance APIs and microservices in Go |
-| 📊 DSA | Sharpening problem-solving fundamentals |
-| 🤝 AI Collaboration | Building faster with AI as a true pair programmer |
+Building scalable backend systems, distributed services, and AI-powered applications.
 
----
+Go · Node.js · TypeScript · Distributed Systems · Cloud-Native Engineering
 
-<!-- Tech Stack -->
-<h2>🛠️ Tech Stack</h2>
+LinkedIn · Email
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,bash,express,nest,react,nextjs,python,docker,mysql,mongodb,redis,jenkins,git,jest" />
-</p>
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp" />
-</p>
+⸻
 
-<!-- Portfolio -->
-<h2>📂 Portfolio & Contact</h2>
+About
 
-<p>
-  🌐 <a href="https://portfolio.gravitycodes.com" target="_blank">Portfolio</a> • 
-  💼 <a href="https://linkedin.com/in/karthi-munirathinam-0812166a" target="_blank">LinkedIn</a> •
-  📧 <a href="mailto:karthiraja268@email.com">Email</a>
-</p>
+I’m a Lead Backend Engineer focused on designing and building reliable backend systems and real-world SaaS products.
 
----
+My experience spans Go, Node.js, NestJS, event-driven microservices, database systems, cloud infrastructure, enterprise integrations, and AI-powered applications.
 
-> <h2 align="center">✨ _"Building scalable backends today, exploring AI for tomorrow."_ </h2>
+I enjoy exploring the engineering decisions behind production systems: reliability, scalability, consistency, performance, and maintainability.
+
+Engineering Focus
+
+* Backend: Go, Go Fiber, Node.js, NestJS, TypeScript, REST APIs
+* Architecture: Microservices, distributed systems, event-driven architecture
+* Data: MySQL, MongoDB, Redis
+* Messaging: Kafka, AWS SQS, AWS SNS
+* Cloud & DevOps: GCP, AWS, Docker, Kubernetes, Jenkins
+* AI: LangChain, LangGraph, AI application integration
+
+Selected Work
+
+Backend & SaaS Systems
+
+Experience building subscription management, POS platform services, reporting APIs, CRM workflows, and enterprise integrations.
+
+Distributed Systems & Architecture
+
+Interested in asynchronous processing, reliable messaging, service boundaries, data consistency, and fault-tolerant systems.
+
+AI-Powered Applications
+
+Exploring agent workflows, tool integration, and practical applications of AI in business software.
+
+Public repositories and independent technical case studies will be linked here as they are ready to share.
+
+What I’m Exploring
+
+* Production-grade Go services
+* Distributed systems and system design
+* Kubernetes and cloud-native engineering
+* Reliable AI agent architectures
+
+⸻
+
+Build thoughtfully. Measure what matters. Share what you learn.
